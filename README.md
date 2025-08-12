@@ -9,7 +9,7 @@ Best used on **3-minute candlesticks**, this tool combines **Exponential Moving 
 
 ## 📸 Screenshot
 
-![EMA VWAP Crossover Buy Signals](buy_screenshot.JPG)
+![EMA_VWAP_CROSSOVER_BUY_SIGNALS](Screenshot.JPG)
 
 ---
 
